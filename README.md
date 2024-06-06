@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F787F7&background=14A9FF00&random=false&width=435&lines=emm,兄弟你好香...欢迎光临我的GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F787F7&background=14A9FF00&random=false&width=435&lines=emm,兄弟你好香...欢迎光临我的GitHub!......@RE~)](https://git.io/typing-svg)
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <!--
